@@ -30,6 +30,8 @@ image:https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f74
 //---------------------------------------------------------------
 
 == Instructions de compilation
+Ouvrir un terminal et vérifier que Maven et Java soient dans le path (taper mvn --version et java)
+Après cela entrer les commandes suivantes:
 - mvn clear pour nettoyer le repo
 - mvn compile pour compiler le projet
 - mvn package pour rendre le projet exécutable
